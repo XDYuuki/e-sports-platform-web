@@ -3,7 +3,6 @@
 ## 1. INTRODUCTION
 This prokect uses React + TypeScript + Vite to create the user interface to access the platform.
 
-======
 ![interface](/public/readme-introduction-cover.png)
 
 ## 2. RUNING
