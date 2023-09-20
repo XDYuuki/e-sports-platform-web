@@ -1,27 +1,30 @@
-# React + TypeScript + Vite
+# Web application for the e-sports platform
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 1. INTRODUCTION
+This prokect uses React + TypeScript + Vite to create the user interface to access the platform.
 
-Currently, two official plugins are available:
+## 2. RUNING
+1. Clone the repository
+   ```sh
+   git clone https://github.com/XDYuuki/e-sports-platform-web
+   ```
+2. Open in terminal and run using:
+   ```sh
+   npm run dev
+   ```
+3. Make sure that the server applicaton is running.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+4. Open the web front end in your browser.
 
-## Expanding the ESLint configuration
+## Contact
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+Gabriel Rocha - [@gabriellbr](https://www.linkedin.com/in/gabriellbr/) - gabriel.lbr@outlook.com
 
-- Configure the top-level `parserOptions` property like this:
+Project Link: [E-Sports Platform Web](https://github.com/XDYuuki/e-sports-platform-web)
+Project Link: [E-Sports Platform Server](https://github.com/XDYuuki/e-sports-platform-server)
+Project Link: [E-Sports Platform Mobile](https://github.com/XDYuuki/e-sports-platform-mobile)
 
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
-```
+<p align="right">(<a href="# Web application for the e-sports platform">back to top</a>)</p>
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+
+[linkedin-gabriel]: https://www.linkedin.com/in/gabriellbr/
