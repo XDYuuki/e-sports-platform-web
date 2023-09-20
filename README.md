@@ -1,6 +1,7 @@
 # Web application for the e-sports platform
 
 ## 1. INTRODUCTION
+![interface](/public/readme-introduction-cover.png)
 This prokect uses React + TypeScript + Vite to create the user interface to access the platform.
 
 ## 2. RUNING
